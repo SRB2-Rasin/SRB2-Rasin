@@ -438,9 +438,11 @@ const char *netxcmdnames[MAXNETXCMD - 1] =
 	"REQADDFOLDER",
 	"SETMOTD",
 	"SUICIDE",
+	"DEMOTED",
 	"LUACMD",
 	"LUAVAR",
-	"LUAFILE"
+	"LUAFILE",
+	"MUTEPLAYER"
 };
 
 // =========================================================================
